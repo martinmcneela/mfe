@@ -1,13 +1,11 @@
 {
-  "name": "marketing",
+  "name": "mapbox",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --config config/webpack.dev.js",
     "build": "webpack --config config/webpack.prod.js"
   },
   "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
     "mapbox-gl": "^2.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
