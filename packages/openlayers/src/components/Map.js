@@ -26,7 +26,7 @@ export const OLMap = () => {
 
   return (
     <div
-      style={{ border: "3px dotted red", height: "600px", width: "100%" }}
+      style={{ border: "1px dotted red", height: "600px", width: "100%" }}
       ref={mapRef}
     />
   );
